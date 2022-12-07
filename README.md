@@ -1,2 +1,2 @@
-# ThinkScripts-Indicators
+# ThinkScripts Indicators
 
